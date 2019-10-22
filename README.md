@@ -3,7 +3,7 @@ Simple HTML clone of Youtube
 Requirements for the project:
 
 Navigation bar
--It has an embedded image that represents a logo.
+-It has an embedded image that represents a logo.\n
 -The logo is aligned to the leftmost part of the navbar.
 -It has an input tag that represents a search bar.
 -The search bar is aligned to the middle of the navbar.
