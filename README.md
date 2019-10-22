@@ -46,4 +46,4 @@ Sidebar Recommended videos
 Authors: Ermin Cahtarevic and Melissa Castorena
 
 URL to the live version of our project:
-https://raw.githack.com/ermin-cahtarevic/youtube-html-clone/feature-branch/index.html 
+[Simple Youtube Clone](https://raw.githack.com/ermin-cahtarevic/youtube-html-clone/feature-branch/index.html) 
