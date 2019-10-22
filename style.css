@@ -33,6 +33,12 @@ nav {
     margin: 20px;
 }
 
+nav img {
+    width: 24px;
+    height: 24px;
+    margin: 15px 10px;
+}
+
 #container {
     display: flex;
     width: 100%;

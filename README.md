@@ -24,3 +24,8 @@ Sidebar Recommended videos
 -It shows the recommended video’s thumbnail preview.
 -It shows the title of the video.
 -It shows the number of views.
+
+Authors: Ermin Cahtarevic and Melissa Castorena
+
+URL to the live version of our project:
+https://raw.githack.com/ermin-cahtarevic/youtube-html-clone/feature-branch/index.html 
