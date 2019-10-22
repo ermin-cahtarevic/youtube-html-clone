@@ -44,7 +44,7 @@ nav {
     flex-direction: column;
 }
 
-#video iframe{
+#video iframe {
     width: 100%
 }
 
@@ -53,20 +53,20 @@ nav {
     width: 30%;
 }
 
-#icons1, #icons2{
+#icons1,
+#icons2 {
     display: flex;
-    width:100%
+    width: 100%
 }
 
-#views{
-  margin-left: auto;
-  margin-right: 5px;
-  color: gray;
-  font-family: Arial, Helvetica, sans-serif
+#views {
+    margin-left: auto;
+    margin-right: 5px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif
 }
 
-
-#subscribe{
+#subscribe {
     width: 75px;
     height: 22px;
     margin-top: 20px;
@@ -76,29 +76,58 @@ nav {
     border-radius: 5px;
 }
 
-#icons1 i{
-    font-size:48px;
+#icons1 i {
+    font-size: 48px;
     margin-left: 5px;
-  
 }
-#icons2 button{
+
+#icons2 button {
     margin-right: auto;
     width: 55px;
     height: 28px;
     margin-left: 5px
 }
 
-#icons2{
+#icons2 {
     height: 30px;
 }
 
-#icons2 h5{
+#icons2 h5 {
     margin: 0 5px 5px;
     color: gray;
     font-family: Arial, Helvetica, sans-serif
 }
 
-#icons2 i{
+#icons2 i {
     color: gray;
 }
 
+.rec-img {
+    width: 168px;
+    height: 94px;
+}
+
+.div-rec {
+    display: flex;
+    margin: 15px 0;
+}
+
+.title-views {
+    display: flex;
+    flex-direction: column;
+    width: 168px;
+    margin-left: 5px;
+}
+
+.title-views h5 {
+    height: 50px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.title-views p {
+    height: 16px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+}
