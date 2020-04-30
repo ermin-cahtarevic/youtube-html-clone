@@ -1,49 +1,67 @@
-# youtube-html-clone
-Simple HTML clone of Youtube
+# Youtube Clone
 
-Requirements for the project:
+Clone of Youtube
 
-Navigation bar
+## Table of Contents
 
--It has an embedded image that represents a logo.
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Get a local copy](#get-a-local-copy)
+* [Contributing](#contributing)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
--The logo is aligned to the leftmost part of the navbar.
-
--It has an input tag that represents a search bar.
-
--The search bar is aligned to the middle of the navbar.
-
--It has a button tag that represents the search button.
-
--The search button is at the end (rightmost part) of the search bar.
-
--It has at least three embedded images on the rightmost part of the navbar that represent icons and/or an avatar.
-
-Video
-
--It is displayed.
-
--It shows the video title.
-
--It shows the number of views.
-
--It has like and dislike icons.
-
--It has a share button.
-
--It shows the avatar of the user who uploaded the video.
-
--It has a subscribe button.
-
-Sidebar Recommended videos
-
--It shows the recommended video’s thumbnail preview.
-
--It shows the title of the video.
-
--It shows the number of views.
-
-Authors: Ermin Cahtarevic and Melissa Castorena
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 URL to the live version of our project:
 [Simple Youtube Clone](https://raw.githack.com/ermin-cahtarevic/youtube-html-clone/feature-branch/index.html) 
+
+### Built With
+
+* [HTML](https://github.com/ermin-cahtarevic/newsweek/blob/developer-branch/index.html)
+* [CSS](https://github.com/ermin-cahtarevic/newsweek/blob/developer-branch/style.css)
+
+### Get a local copy
+
+**Clone the repository by running this command in your terminal**
+```
+git clone git@github.com:ermin-cahtarevic/youtube-html-clone.git
+```
+
+**Navigate into the newly created folder**
+```
+cd youtube-html-clone
+```
+
+**Open the index.html file in your browser to see the website** 
+
+**Tests**
+
+Tests have not been added yet, they are something that should be added eventually
+
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+Ermin Cahtarevic - [Github](https://github.com/ermin-cahtarevic)
+
+Melissa Castorena - [Github](https://github.com/mcastorena0316)
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Microverse](https://www.microverse.org/)
+
